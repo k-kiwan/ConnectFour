@@ -1,2 +1,2 @@
 # ConnectFour
-University assignment - Connect Four with adjusted rules
+University assignment (first semester) - Connect Four with adjusted rules
